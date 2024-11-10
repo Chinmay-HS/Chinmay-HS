@@ -1,30 +1,29 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chinmay-HS.Chinmay-HS" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2750&pause=750&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Bonjour;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo"/>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<h3 align="center">Engineer by morning. Editor by night.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **My portfolio website & a research paper.**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Autodesk Fusion, Scripting in Unity, MongoDB**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Chinmay-HS/Chinmay-HS/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Unity, Da Vinci, Designing... or anything [here](https://github.com/Chinmay-HS/Chinmay-HS/issues)**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:sawantchinmay110@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/chinmay-sawant-8b3282266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Chinmay-HS.github.io" target="_blank">
@@ -37,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,vscode,github,figma,git,nodejs,python,js,express,mongodb,java,mysql"/>
+    <img src="https://skillicons.dev/icons?i=cs,autocad,ai,ps,pr,ae,au,blender,unity,xd,rider" /><br>
 </div>
 
 <br/>
