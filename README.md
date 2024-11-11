@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chinmay-HS.Chinmay-HS" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2750&pause=750&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Bonjour;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo;I'm+Chinmay+Sawant;"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2250&pause=500&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Bonjour;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo;I'm+Chinmay+Sawant;"/>
 </h1>
 
 
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/chinmay-sawant-8b3282266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Chinmay-HS.github.io" target="_blank">
+  <a href="https://aquamarine-liger-0c035b.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
