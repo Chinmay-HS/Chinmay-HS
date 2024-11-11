@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Chinmay-HS.Chinmay-HS" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2750&pause=750&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Bonjour;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=500&size=40&duration=2750&pause=750&color=B1C0F7&center=true&vCenter=true&width=435&lines=Hello+There+%3AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0;Bonjour;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;Hallo;I'm+Chinmay+Sawant;"/>
 </h1>
 
 
-<h3 align="center">Engineer by morning. Editor by night.</h3>
+<h3 align="center">Computer Engineer. Video Editor. Designer. Aspiring Game Developer.</h3>
 
 <br/>
 
